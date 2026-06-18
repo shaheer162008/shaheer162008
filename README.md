@@ -389,6 +389,10 @@ open_to:
   </a>
 </p>
 <p align="center">
+  <a href="https://www.muhammad-shaheer.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-muhammad--shaheer.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/muhammad-shaheer-yousuf">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
