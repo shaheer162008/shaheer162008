@@ -27,17 +27,17 @@
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Shaheer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://github.com/muhammad-shaheer-yousuf">
-    <img src="https://img.shields.io/badge/GitHub-muhammad--shaheer--yousuf-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/shaheer162008">
+    <img src="https://img.shields.io/badge/GitHub-shaheer162008-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammad-shaheer-yousuf&style=flat-square&color=7C3AED&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=shaheer162008&style=flat-square&color=7C3AED&label=Profile+Views" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/muhammad-shaheer-yousuf?style=flat-square&color=6D28D9&label=Followers&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/shaheer162008?style=flat-square&color=6D28D9&label=Followers&logo=github" alt="Followers"/>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/muhammad-shaheer-yousuf?style=flat-square&color=4F46E5&label=Stars&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/github/stars/shaheer162008?style=flat-square&color=4F46E5&label=Stars&logo=github" alt="Stars"/>
 </p>
 
 ---
@@ -350,70 +350,6 @@ Foundational full-stack engineering role — 2+ years of continuous production f
 
 ---
 
-## ◈ Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/muhammad-shaheer-yousuf">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/muhammad-shaheer-yousuf">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/muhammad-shaheer-yousuf">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/shaheer_yousuf">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
-</p>
-
----
-
-## ◈ GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-shaheer-yousuf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=7C3AED&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-shaheer-yousuf&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=ffffff&sideNums=ffffff&dates=6B7280" height="180" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-shaheer-yousuf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" alt="Top Languages"/>
-</p>
-
----
-
-## ◈ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-shaheer-yousuf&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
-## ◈ Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-shaheer-yousuf&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&area_color=4F46E5&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Activity Graph" width="95%"/>
-</p>
-
----
-
-## ◈ Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammad-shaheer-yousuf/muhammad-shaheer-yousuf/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammad-shaheer-yousuf/muhammad-shaheer-yousuf/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/muhammad-shaheer-yousuf/muhammad-shaheer-yousuf/output/github-contribution-grid-snake.svg" width="95%"/>
-  </picture>
-</p>
-
----
-
 ## ◈ Current Focus
 
 ```yaml
@@ -457,7 +393,7 @@ open_to:
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/muhammad-shaheer-yousuf">
+  <a href="https://github.com/shaheer162008">
     <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
