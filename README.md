@@ -56,5 +56,4 @@ I am a Full Stack Developer with over 3 years of experience building TypeScript 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shaheer162008&show_icons=true&theme=transparent&hide_border=true&hide_title=false" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheer162008&theme=transparent&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
