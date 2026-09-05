@@ -1,197 +1,66 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Muhammad%20Shaheer&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20Systems%20Architect%20%E2%80%A2%20Product%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+scalable+full-stack+systems;TypeScript+%7C+Next.js+%7C+Node.js+%7C+MongoDB+%7C+AI;Agentic+AI+%E2%80%A2+Prompt+Engineering+%E2%80%A2+LLM+Integration;Delivered+gov-grade+enterprise+dashboards" alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Associate%20Software%20Engineering-Jinnah%20Polytechnic%20Institute-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white" alt="Education"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/PIAIC-Agentic%20AI%20Developer-6D28D9?style=flat-square&logo=openai&logoColor=white" alt="PIAIC"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Google%20Certified-AI%20Studio%20%7C%20Firebase-4F46E5?style=flat-square&logo=google&logoColor=white" alt="Google Certs"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Karachi%2C%20Pakistan-📍-8B5CF6?style=flat-square&logoColor=white" alt="Location"/>
-</p>
-
-<p align="center">
-  <a href="mailto:shaheer.yousuf.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shaheer.yousuf.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/muhammad-shaheer-yousuf">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Shaheer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/shaheer162008">
-    <img src="https://img.shields.io/badge/GitHub-shaheer162008-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaheer162008&style=flat-square&color=7C3AED&label=Profile+Views" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/shaheer162008?style=flat-square&color=6D28D9&label=Followers&logo=github" alt="Followers"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/shaheer162008?style=flat-square&color=4F46E5&label=Stars&logo=github" alt="Stars"/>
-</p>
-
----
-
-## ◈ About
-
-Full Stack Developer specialising in **TypeScript/Next.js** web applications and **AI-powered automation systems**.
-
-Hands-on with the full spectrum of **Agentic AI** — from prompt engineering and LLM orchestration to stateful chatbot integration and Google AI Studio prototyping. Currently enrolled in the **PIAIC Agentic AI Developer Programme** and certified in **Firebase Serverless Architecture** and **AI-Powered Prototyping** via Google.
-
-Engineering philosophy: ship clean, typed, tested, CI/CD-deployed code. Maintain it as if the next engineer is a production incident waiting to happen.
-
----
-
-## ◈ Tech Stack
-
-<p align="center">
-  <strong>Languages</strong>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" alt="Languages"/>
-</p>
-
-<p align="center">
-  <strong>Frontend</strong>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" alt="Frontend"/>
-</p>
-
-<p align="center">
-  <strong>Backend & Databases</strong>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,postgres,firebase,supabase&theme=dark" alt="Backend & Databases"/>
-</p>
-
-<p align="center">
-  <strong>Cloud, DevOps & Tooling</strong>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,vercel,gcp,git,github,jest&theme=dark" alt="Cloud & Tooling"/>
-</p>
-
----
-
-## ◈ AI / ML Expertise
-
 <div align="center">
-
-| Domain | Proficiency | Details |
-|:--|:--:|:--|
-| **Agentic AI Development** | ██████████ Advanced | PIAIC-certified agentic workflows, tool-use orchestration |
-| **Prompt Engineering** | ██████████ Advanced | Systematic prompt design, chain-of-thought, few-shot |
-| **LLM Integration** | █████████░ Proficient | REST-based LLM APIs, response streaming, context management |
-| **AI Chatbot Architecture** | █████████░ Proficient | Stateful conversation design, intent routing, fallback handling |
-| **Google AI Studio** | ████████░░ Proficient | Google-certified rapid prototyping with Gemini models |
-| **Firebase AI (Serverless)** | ████████░░ Proficient | Google-certified serverless AI app delivery on Firebase |
-
+  <h1>Hi there, I'm Muhammad Shaheer 👋</h1>
+  <p><strong>Full Stack Web Developer | TypeScript | Next.js | AI Integration</strong></p>
+  <p>
+    <a href="https://www.muhammad-shaheer.dev/">Portfolio</a> • 
+    <a href="https://linkedin.com/in/muhammad-shaheer-yousuf">LinkedIn</a> • 
+    <a href="mailto:shaheer.yousuf.dev@gmail.com">Email</a>
+  </p>
 </div>
 
 ---
 
-## ◈ Key Project
+## 👨🏻‍💻 About Me
 
-<details open>
-<summary><strong>⬡ Sindh Education Department — Legal Case Management Dashboard</strong></summary>
+I am a Full Stack Developer with over 3 years of experience building TypeScript and Next.js web applications, as well as AI-powered tools[cite: 1]. I focus on developing scalable systems, optimizing performance, and integrating agentic AI solutions[cite: 1].
 
-<br/>
-
-> An enterprise-grade, government-deployed internal legal operations platform serving **all Sindh Education Department staff** — built for institutional-scale document management, case tracking, and role-gated access control.
-
-<div align="center">
-
-| Dimension | Specification |
-|:--|:--|
-| **Stack** | Next.js · Node.js · MongoDB · JWT · REST API |
-| **Scale** | Government-wide deployment — Sindh Education Department (provincial scope) |
-| **Performance** | Server-side rendering for sub-second load on low-bandwidth government networks |
-| **Security** | JWT-based multi-role access control · document-level permission boundaries |
-| **Impact** | Replaced legacy manual workflows · standardised legal case lifecycle digitally |
-| **Repository** | Internal / Confidential |
-
-</div>
-
-Engineering decisions were driven by zero-tolerance for data exposure — JWT role segmentation ensures clerical, legal, and administrative staff operate in strictly isolated permission contexts. The MongoDB document model was chosen for its flexibility in representing nested legal case structures and supporting ad-hoc query patterns without schema migrations during evolving legal workflows.
-
-<br/>
-</details>
+*   **Experience:** 3+ years delivering full-stack solutions and establishing scalable architectures[cite: 1].
+*   **AI & Automation:** Completed the PIAIC Agentic AI Developer program and specialize in prompt engineering and chatbot integration[cite: 1].
+*   **Certifications:** Hold Google certifications in Firebase Serverless Apps and AI-Powered Prototypes[cite: 1].
+*   **Location:** Based in Karachi, Pakistan[cite: 1].
 
 ---
 
-## ◈ Education
+## 🛠️ Tech Stack
 
-<div align="center">
+**Frontend:** Next.js, React.js, HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript[cite: 1]  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-| Degree | Institute | Status |
-|:--|:--|:--:|
-| **Associate Software Engineering** | Jinnah Polytechnic Institute, Karachi | Nov 2024 – Nov 2027 (In Progress) |
+**Backend & Database:** Node.js, Express.js, REST APIs, GraphQL, MongoDB, PostgreSQL, Supabase, Firebase, Firestore, Cloud Build[cite: 1]  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-</div>
-
----
-
-## ◈ Certifications
-
-<p align="center"><strong>Google</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Develop%20Serverless%20Apps%20with%20Firebase-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Firebase Cert"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/AI--Powered%20Prototypes%20in%20Google%20AI%20Studio-Google-34A853?style=for-the-badge&logo=google&logoColor=white" alt="AI Studio Cert"/>
-</p>
-
-<p align="center"><strong>PIAIC</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Agentic%20AI%20Developer-PIAIC-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="PIAIC Cert"/>
-</p>
-
-<p align="center"><strong>Cybersecurity</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity%20Fundamentals-Bano%20Qabil-6D28D9?style=for-the-badge&logo=shield&logoColor=white" alt="Bano Qabil"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Digital%20Forensics%20%26%20Ethical%20Hacking-Bano%20Qabil-4F46E5?style=for-the-badge&logo=shield&logoColor=white" alt="Digital Forensics"/>
-</p>
+**Cloud, AI & Tools:** Google Cloud, AWS, Microsoft Azure, Google AI Studio, Generative AI, Agentic AI, Git, GitHub, Docker, Vercel, Jest  
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ---
 
-## ◈ Connect
+## 🚀 Featured Project
 
-<p align="center">
-  <a href="mailto:shaheer.yousuf.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-shaheer.yousuf.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.muhammad-shaheer.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-muhammad--shaheer.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/muhammad-shaheer-yousuf">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/shaheer162008">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+**Sindh Government Education Department | Legal Dashboard**[cite: 1]
+> A full-stack internal tool designed for legal case and document management[cite: 1].
+
+*   **Stack:** Next.js, Node.js, MongoDB[cite: 1].
 
 ---
 
+## 📚 Education & Certifications
+
+*   **Associate Software Engineering** — Jinnah Polytechnic Institute *(Nov 2024 - Nov 2027)*[cite: 1]
+*   **Agentic AI Developer** — PIAIC *(Jan 2026)*[cite: 1]
+*   **Develop Serverless Apps with Firebase** — Google *(Apr 2026)*[cite: 1]
+*   **Develop AI-Powered Prototypes in Google AI Studio** — Google *(Apr 2026)*[cite: 1]
+*   **Digital Forensics and Ethical Hacking** — AlKhidmat Bano Qabil & Learning Resource Network UK *(Feb 2026)*[cite: 1]
+*   **Cyber Security Fundamentals** — AlKhidmat Bano Qabil & Learning Resource Network UK *(Oct 2025)*[cite: 1]
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <em>"Clean code is not written by following a set of rules. It is written by a craftsman who cares."</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=shaheer162008&show_icons=true&theme=transparent&hide_border=true&hide_title=false" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheer162008&theme=transparent&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaheer162008&theme=minimal&hide_border=true&bg_color=transparent" alt="Contribution Graph" width="100%"/>
 </p>
