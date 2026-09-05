@@ -46,18 +46,13 @@ I am a Full Stack Developer with over 3 years of experience building TypeScript 
 *   **Associate Software Engineering** | Jinnah Polytechnic Institute *(Nov 2024 - Nov 2027)*
 *   **Agentic AI Developer** | PIAIC *(Jan 2026)*
 *   **Develop Serverless Apps with Firebase** | Google *(Apr 2026)*
-*   **Develop AI-Powered Prototypes in Google AI Studio** |— Google *(Apr 2026)*
+*   **Develop AI-Powered Prototypes in Google AI Studio** | Google *(Apr 2026)*
 *   **Digital Forensics and Ethical Hacking** | AlKhidmat Bano Qabil & Learning Resource Network UK *(Feb 2026)*
-*   **Cyber Security Fundamentals** — AlKhidmat Bano Qabil & Learning Resource Network UK *(Oct 2025)*
+*   **Cyber Security Fundamentals** | AlKhidmat Bano Qabil & Learning Resource Network UK *(Oct 2025)*
 
 ---
 
 ## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaheer162008&show_icons=true&theme=transparent&hide_border=true&hide_title=false" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheer162008&theme=transparent&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaheer162008&theme=minimal&hide_border=true&bg_color=transparent" alt="Contribution Graph" width="100%"/>
